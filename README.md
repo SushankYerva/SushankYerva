@@ -24,7 +24,7 @@ I build hands-on security labs that simulate enterprise environments, generate s
 
 | Project | What it Demonstrates | Tools / Technologies |
 |---|---|---|
-| [Enterprise Detection Lab](https://github.com/SushankYerva/Enterprise-detection-lab) | Home SOC lab with firewall, AD, endpoint telemetry, network IDS, Splunk log forwarding, and detection use cases | pfSense, Splunk, Zeek, Suricata, Active Directory, Windows, Sysmon |
+| [Detection Lab](https://github.com/SushankYerva/Enterprise-detection-lab) | Home SOC lab with firewall, AD, endpoint telemetry, network IDS, Splunk log forwarding, and detection use cases | pfSense, Splunk, Zeek, Suricata, Active Directory, Windows, Sysmon |
 | [CTI Integration Pipeline](https://github.com/SushankYerva/CTI_Integration) | End-to-end cyber threat intelligence pipeline using OpenCTI, AlienVault OTX, and Splunk | OpenCTI, AlienVault OTX, Splunk, Docker Compose, Elasticsearch, Redis, RabbitMQ |
 | [ThreatScope](https://github.com/SushankYerva/ThreatScope) | Real-time and offline network intrusion detection using packet capture, flow features, and ML classification | Python, Scapy, PyShark, XGBoost, Random Forest, FastAPI, SQLite, Docker |
 | [Three-Party Key Establishment Protocol](https://github.com/SushankYerva/E2EKeyEstablishmentProtocol) | Secure session key establishment between three entities with certificates, signatures, and encrypted chat | Python, RSA, AES-GCM, Certificates, Pytest, GitHub Actions |
